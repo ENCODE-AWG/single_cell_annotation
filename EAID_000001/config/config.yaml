@@ -1,0 +1,26 @@
+workdir: .
+
+max_threads_per_rule: 4
+
+dcc_lab: anshul-kundaje
+dcc_award: UM1HG009442
+dcc_mode: prod
+
+bc_wl_rna: http://mitra.stanford.edu/kundaje/atwang/rna_whitelists/737K-arc-v1.txt.gz
+bc_wl_atac: http://mitra.stanford.edu/kundaje/atwang/atac_whitelists/737K-arc-v1.txt.gz
+
+archr_seed: 8757647
+archr_min_frags: 5000
+archr_min_tss_enr: 5
+
+seurat_seed: 2398756
+seurat_min_count: 1000
+seurat_max_pct_mito: 5
+
+rna_ref_counts: https://www.livercellatlas.org/data_files/toDownload/rawData_human.zip
+rna_ref_metadata: https://www.livercellatlas.org/data_files/toDownload/annot_humanAll.csv
+
+# doublet_formation_rate: 0.15
+doublet_formation_rate: 0.3
+
+gtf: https://www.encodeproject.org/files/ENCFF159KBI/@@download/ENCFF159KBI.gtf.gz
