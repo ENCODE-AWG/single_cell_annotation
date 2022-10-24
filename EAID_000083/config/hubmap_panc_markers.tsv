@@ -1,0 +1,23 @@
+Cell type	Gene1	Gene2	Gene3	Gene4	Gene5	Gene6	Gene7
+Acinar	AMY2A	PRSS1	CTRB1	CELA3A	PNLIP	KRT18	KRT8
+Smooth muscle	ACTA2						
+Ductal epithelial 1 (simple columnar)	CFTR	KRT19	KRT7	PDX1			
+Ductal epithelial 2 (simple columnar)	KRT19	PDX1					
+Ductal epithelial 3 (low columnar)	KRT19						
+Centroacinar	CA2						
+Pancreatic goblet	MUC2						
+Tuft	AVIL	HPGDS					
+Enterochromaffin	TPH1	CHGA	SYP				
+B	MS4A1	CD19	PTPRC				
+T	CD3E	CD8A	CD4	PTPRC			
+Macrophage	CD68	AIF1	CD163	MRC1			
+Dendritic	ITGAX						
+Stellate (activated)	ACTA2	LAMA2					
+Stellate (quiescent)	PDGFRB						
+adipocyte	LEP	HOXC8	HOXC9	FABP4			
+pancreatic alpha	GCG	ARX	PDX1	CHGA	SYP	UCHL1	
+pancreatic beta	INS	ENTPD3	PDX1	WFS1	CHGA	SYP	UCHL1
+pancreatic delta	SST	CHGA	SYP	UCHL1			
+pancreatic pp	PPY	CHGA	SYP	UCHL1			
+pancreatic epsilon	GHRL	CHGA	SYP	UCHL1			
+pancreatic gastrin	GAST						
