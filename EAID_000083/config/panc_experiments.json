@@ -539,7 +539,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2021-04-09T05:33:01.465001+00:00",
     "date_released": "2022-03-16",
     "dbxrefs": [],
@@ -709,7 +712,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -989,7 +995,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -1270,7 +1279,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -1551,7 +1563,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -1832,7 +1847,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -2122,7 +2140,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-04-09T05:33:01.465001+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -2324,17 +2345,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -2599,17 +2623,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -2843,17 +2870,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -3106,17 +3136,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -3425,17 +3458,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -3675,19 +3711,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -3703,6 +3739,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:34.918385+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -3733,7 +3770,6 @@
           "/files/ENCFF012QIE/",
           "/files/ENCFF680FRG/",
           "/files/ENCFF482UTI/",
-          "/files/ENCFF640CKV/",
           "/files/ENCFF923NIZ/",
           "/files/ENCFF866QMI/",
           "/files/ENCFF142KFD/",
@@ -3745,7 +3781,7 @@
           "/files/ENCFF043SMX/",
           "/files/ENCFF547VHK/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -3826,7 +3862,9 @@
             },
             "characterizations": [],
             "date_created": "2021-04-09T05:33:07.360120+00:00",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348006"
+            ],
             "documents": [
               "/documents/c4b8952c-d9f1-42e7-8ea5-54659d14f46b/"
             ],
@@ -4653,7 +4691,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2021-07-26T23:35:35.846287+00:00",
     "date_released": "2022-03-16",
     "dbxrefs": [],
@@ -4823,7 +4864,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -5103,7 +5147,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -5384,7 +5431,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -5665,7 +5715,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -5955,7 +6008,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -6235,7 +6291,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-26T23:35:35.846287+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -6438,17 +6497,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -6713,17 +6775,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -6957,17 +7022,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -7220,17 +7288,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -7539,17 +7610,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -7789,19 +7863,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -7817,6 +7891,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:36.748750+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -7847,7 +7922,6 @@
           "/files/ENCFF151CMW/",
           "/files/ENCFF820AVB/",
           "/files/ENCFF836KOE/",
-          "/files/ENCFF275CGG/",
           "/files/ENCFF248JPV/",
           "/files/ENCFF961TMU/",
           "/files/ENCFF914UFX/",
@@ -7859,7 +7933,7 @@
           "/files/ENCFF844MKD/",
           "/files/ENCFF148LLV/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -7941,7 +8015,9 @@
             "characterizations": [],
             "date_created": "2021-07-26T23:35:40.479943+00:00",
             "date_obtained": "2017-11-28",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348091"
+            ],
             "documents": [],
             "donor": {
               "@id": "/human-donors/ENCDO528BHB/",
@@ -8642,14 +8718,6 @@
     "audit": {
       "INTERNAL_ACTION": [
         {
-          "category": "mismatched status",
-          "detail": "Released analysis {ENCAN362JRR|/analyses/ENCAN362JRR/} has in progress subobject file {ENCFF464DUI|/files/ENCFF464DUI/}",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_status",
-          "path": "/analyses/ENCAN362JRR/"
-        },
-        {
           "category": "mismatched file status",
           "detail": "Released dataset {ENCSR496XXB|/experiments/ENCSR496XXB/} contains file {ENCFF464DUI|/files/ENCFF464DUI/} that has not been released.",
           "level": 30,
@@ -8664,6 +8732,14 @@
           "level_name": "INTERNAL_ACTION",
           "name": "audit_experiment",
           "path": "/experiments/ENCSR496XXB/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "Released analysis {ENCAN362JRR|/analyses/ENCAN362JRR/} has in progress subobject file {ENCFF464DUI|/files/ENCFF464DUI/}",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_status",
+          "path": "/analyses/ENCAN362JRR/"
         }
       ]
     },
@@ -8762,7 +8838,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2020-11-02T17:28:33.200243+00:00",
     "date_released": "2022-03-16",
     "dbxrefs": [],
@@ -8918,7 +8997,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -9203,7 +9285,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -9478,7 +9563,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -9763,7 +9851,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -10038,7 +10129,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -10314,7 +10408,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-11-02T17:28:33.200243+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -10518,17 +10615,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -10793,17 +10893,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -11037,17 +11140,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -11300,17 +11406,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -11619,17 +11728,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -11869,19 +11981,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -11897,6 +12009,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:28.445262+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -11927,7 +12040,6 @@
           "/files/ENCFF645DOA/",
           "/files/ENCFF944XTQ/",
           "/files/ENCFF455WME/",
-          "/files/ENCFF464DUI/",
           "/files/ENCFF396HXS/",
           "/files/ENCFF128XQB/",
           "/files/ENCFF472RDJ/",
@@ -11939,7 +12051,7 @@
           "/files/ENCFF012YZW/",
           "/files/ENCFF737VEW/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -12019,7 +12131,9 @@
             },
             "characterizations": [],
             "date_created": "2020-10-30T20:25:34.917210+00:00",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348119"
+            ],
             "documents": [
               "/documents/c4b8952c-d9f1-42e7-8ea5-54659d14f46b/"
             ],
@@ -12845,7 +12959,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2021-07-27T00:00:58.764845+00:00",
     "date_released": "2022-03-16",
     "dbxrefs": [],
@@ -13006,7 +13123,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -13287,7 +13407,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -13577,7 +13700,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -13857,7 +13983,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -14138,7 +14267,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -14428,7 +14560,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2021-07-27T00:00:58.764845+00:00",
             "date_released": "2022-03-16",
             "dbxrefs": [],
@@ -14630,17 +14765,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -14905,17 +15043,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -15149,17 +15290,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -15412,17 +15556,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -15731,17 +15878,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -15981,19 +16131,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -16009,6 +16159,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:37.292061+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -16039,7 +16190,6 @@
           "/files/ENCFF243SSR/",
           "/files/ENCFF316UUT/",
           "/files/ENCFF662CFN/",
-          "/files/ENCFF054RGM/",
           "/files/ENCFF183MCN/",
           "/files/ENCFF484GRG/",
           "/files/ENCFF736QLL/",
@@ -16051,7 +16201,7 @@
           "/files/ENCFF607PON/",
           "/files/ENCFF578UAY/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -16133,7 +16283,9 @@
             "characterizations": [],
             "date_created": "2021-07-26T23:34:08.642906+00:00",
             "date_obtained": "2017-06-09",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348079"
+            ],
             "documents": [],
             "donor": {
               "@id": "/human-donors/ENCDO575EGL/",
@@ -16839,14 +16991,6 @@
     "audit": {
       "INTERNAL_ACTION": [
         {
-          "category": "mismatched status",
-          "detail": "Released analysis {ENCAN637HVP|/analyses/ENCAN637HVP/} has in progress subobject file {ENCFF790RVL|/files/ENCFF790RVL/}",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_status",
-          "path": "/analyses/ENCAN637HVP/"
-        },
-        {
           "category": "mismatched file status",
           "detail": "Released dataset {ENCSR042RUW|/experiments/ENCSR042RUW/} contains file {ENCFF790RVL|/files/ENCFF790RVL/} that has not been released.",
           "level": 30,
@@ -16861,6 +17005,14 @@
           "level_name": "INTERNAL_ACTION",
           "name": "audit_experiment",
           "path": "/experiments/ENCSR042RUW/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "Released analysis {ENCAN637HVP|/analyses/ENCAN637HVP/} has in progress subobject file {ENCFF790RVL|/files/ENCFF790RVL/}",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_status",
+          "path": "/analyses/ENCAN637HVP/"
         }
       ]
     },
@@ -16959,7 +17111,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2020-04-11T00:58:05.794660+00:00",
     "date_released": "2022-03-16",
     "date_submitted": "2020-04-19",
@@ -17119,7 +17274,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -17407,7 +17565,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -17695,7 +17856,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -17983,7 +18147,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -18271,7 +18438,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -18559,7 +18729,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -18847,7 +19020,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -19135,7 +19311,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -19433,7 +19612,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -19731,7 +19913,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -20029,7 +20214,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -20327,7 +20515,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:05.794660+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -20539,17 +20730,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -20823,17 +21017,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -21076,17 +21273,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -21339,17 +21539,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -21658,17 +21861,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -21994,7 +22200,9 @@
             "characterizations": [],
             "date_created": "2020-04-11T00:28:04.016900+00:00",
             "date_obtained": "2018-05-29",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30347990"
+            ],
             "documents": [
               "/documents/06f742c2-eac3-49ff-9392-20fc473baa44/"
             ],
@@ -22813,7 +23021,10 @@
     },
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
     "category_slims": [],
-    "contributing_files": [],
+    "contributing_files": [
+      "/files/737K-arc-v1(GEX)/",
+      "/files/737K-arc-v1(ATAC)/"
+    ],
     "date_created": "2020-04-11T00:58:01.906855+00:00",
     "date_released": "2022-03-16",
     "date_submitted": "2020-04-19",
@@ -22973,7 +23184,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -23273,7 +23487,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -23573,7 +23790,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -23873,7 +24093,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -24173,7 +24396,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -24473,7 +24699,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -24773,7 +25002,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -25073,7 +25305,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -25373,7 +25608,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -25673,7 +25911,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -25973,7 +26214,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -26273,7 +26517,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -26583,7 +26830,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -26893,7 +27143,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -27203,7 +27456,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -27513,7 +27769,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -27823,7 +28082,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -28133,7 +28395,10 @@
             "biosample_ontology": "/biosample-types/tissue_UBERON_0001264/",
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
-            "contributing_files": [],
+            "contributing_files": [
+              "/files/737K-arc-v1(GEX)/",
+              "/files/737K-arc-v1(ATAC)/"
+            ],
             "date_created": "2020-04-11T00:58:01.906855+00:00",
             "date_released": "2022-03-16",
             "date_submitted": "2020-04-19",
@@ -28357,17 +28622,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -28649,17 +28917,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fastq-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fastq filtering step",
@@ -28910,17 +29181,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-filtered-fastq-mapping-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq filtered fastq mapping step",
@@ -29173,17 +29447,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-bam-filtering-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq bam filtering step",
@@ -29492,17 +29769,20 @@
                 "documents": [],
                 "lab": "/labs/anshul-kundaje/",
                 "pipeline_version": 1,
+                "reference_filesets": [
+                  "/references/ENCSR770WEL/"
+                ],
                 "references": [],
                 "schema_version": "14",
                 "source_url": "https://github.com/kundajelab/ENCODE_scatac",
-                "status": "in progress",
+                "status": "released",
                 "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
                 "title": "scATAC-seq pipeline",
                 "uuid": "133c3792-965b-4e87-b6d5-8ce99155846d"
               }
             ],
             "schema_version": "15",
-            "status": "in progress",
+            "status": "released",
             "step_label": "scatac-seq-fragments-generation-step",
             "submitted_by": "/users/43f2f757-5cbf-490a-9787-a1ee85a4cdcd/",
             "title": "scATAC-seq fragments generation step",
@@ -29834,7 +30114,9 @@
             "characterizations": [],
             "date_created": "2020-04-11T00:27:58.795730+00:00",
             "date_obtained": "2017-05-24",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30347879"
+            ],
             "documents": [],
             "donor": {
               "@id": "/human-donors/ENCDO575WHY/",
@@ -30354,20 +30636,20 @@
     "audit": {
       "INTERNAL_ACTION": [
         {
-          "category": "mismatched status",
-          "detail": "Released analysis {ENCAN088VSB|/analyses/ENCAN088VSB/} has in progress subobject document {0e6bb61b-8a1c-4588-8475-c9ad9f0c20f8|/documents/0e6bb61b-8a1c-4588-8475-c9ad9f0c20f8/}",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_status",
-          "path": "/analyses/ENCAN088VSB/"
-        },
-        {
           "category": "experiment not submitted to GEO",
           "detail": "Experiment {ENCSR472RRP|/experiments/ENCSR472RRP/} is released, but is not submitted to GEO.",
           "level": 30,
           "level_name": "INTERNAL_ACTION",
           "name": "audit_experiment",
           "path": "/experiments/ENCSR472RRP/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "Released analysis {ENCAN088VSB|/analyses/ENCAN088VSB/} has in progress subobject document {0e6bb61b-8a1c-4588-8475-c9ad9f0c20f8|/documents/0e6bb61b-8a1c-4588-8475-c9ad9f0c20f8/}",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_status",
+          "path": "/analyses/ENCAN088VSB/"
         }
       ],
       "WARNING": [
@@ -33120,19 +33402,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -33148,6 +33430,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (59 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:34.918385+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -33178,7 +33461,6 @@
           "/files/ENCFF012QIE/",
           "/files/ENCFF680FRG/",
           "/files/ENCFF482UTI/",
-          "/files/ENCFF640CKV/",
           "/files/ENCFF923NIZ/",
           "/files/ENCFF866QMI/",
           "/files/ENCFF142KFD/",
@@ -33190,7 +33472,7 @@
           "/files/ENCFF043SMX/",
           "/files/ENCFF547VHK/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -33271,7 +33553,9 @@
             },
             "characterizations": [],
             "date_created": "2021-04-09T05:33:07.360120+00:00",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348006"
+            ],
             "documents": [
               "/documents/c4b8952c-d9f1-42e7-8ea5-54659d14f46b/"
             ],
@@ -36570,19 +36854,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -36598,6 +36882,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (47 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:36.748750+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -36628,7 +36913,6 @@
           "/files/ENCFF151CMW/",
           "/files/ENCFF820AVB/",
           "/files/ENCFF836KOE/",
-          "/files/ENCFF275CGG/",
           "/files/ENCFF248JPV/",
           "/files/ENCFF961TMU/",
           "/files/ENCFF914UFX/",
@@ -36640,7 +36924,7 @@
           "/files/ENCFF844MKD/",
           "/files/ENCFF148LLV/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -36722,7 +37006,9 @@
             "characterizations": [],
             "date_created": "2021-07-26T23:35:40.479943+00:00",
             "date_obtained": "2017-11-28",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348091"
+            ],
             "documents": [],
             "donor": {
               "@id": "/human-donors/ENCDO528BHB/",
@@ -39992,19 +40278,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -40020,6 +40306,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction male adult (26 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:28.445262+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -40050,7 +40337,6 @@
           "/files/ENCFF645DOA/",
           "/files/ENCFF944XTQ/",
           "/files/ENCFF455WME/",
-          "/files/ENCFF464DUI/",
           "/files/ENCFF396HXS/",
           "/files/ENCFF128XQB/",
           "/files/ENCFF472RDJ/",
@@ -40062,7 +40348,7 @@
           "/files/ENCFF012YZW/",
           "/files/ENCFF737VEW/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -40142,7 +40428,9 @@
             },
             "characterizations": [],
             "date_created": "2020-10-30T20:25:34.917210+00:00",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348119"
+            ],
             "documents": [
               "/documents/c4b8952c-d9f1-42e7-8ea5-54659d14f46b/"
             ],
@@ -43437,19 +43725,19 @@
         ],
         "alternate_accessions": [],
         "assay_slims": [
-          "Single cell",
           "DNA accessibility",
+          "Single cell",
           "Transcription"
         ],
         "assay_synonyms": [
           "snATAC-seq",
+          "single-cell RNA sequencing assay",
           "scRNA-seq",
-          "single-nucleus ATAC-seq",
-          "single-cell RNA sequencing assay"
+          "single-nucleus ATAC-seq"
         ],
         "assay_term_id": [
-          "OBI:0002762",
-          "OBI:0002631"
+          "OBI:0002631",
+          "OBI:0002762"
         ],
         "assay_term_name": [
           "single-nucleus ATAC-seq",
@@ -43465,6 +43753,7 @@
         "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female child (16 years)",
         "contributing_files": [],
         "date_created": "2021-08-14T02:46:37.292061+00:00",
+        "date_released": "2022-08-31",
         "dbxrefs": [],
         "documents": [],
         "files": [],
@@ -43495,7 +43784,6 @@
           "/files/ENCFF243SSR/",
           "/files/ENCFF316UUT/",
           "/files/ENCFF662CFN/",
-          "/files/ENCFF054RGM/",
           "/files/ENCFF183MCN/",
           "/files/ENCFF484GRG/",
           "/files/ENCFF736QLL/",
@@ -43507,7 +43795,7 @@
           "/files/ENCFF607PON/",
           "/files/ENCFF578UAY/"
         ],
-        "status": "in progress",
+        "status": "released",
         "submitted_by": "/users/9e077d38-a99b-4f84-8c79-6c75cf505731/",
         "superseded_by": [],
         "supersedes": [],
@@ -43589,7 +43877,9 @@
             "characterizations": [],
             "date_created": "2021-07-26T23:34:08.642906+00:00",
             "date_obtained": "2017-06-09",
-            "dbxrefs": [],
+            "dbxrefs": [
+              "GEO:SAMN30348079"
+            ],
             "documents": [],
             "donor": {
               "@id": "/human-donors/ENCDO575EGL/",
@@ -44120,28 +44410,12 @@
     "audit": {
       "INTERNAL_ACTION": [
         {
-          "category": "experiment not submitted to GEO",
-          "detail": "Experiment {ENCSR684KYI|/experiments/ENCSR684KYI/} is released, but is not submitted to GEO.",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_experiment",
-          "path": "/experiments/ENCSR684KYI/"
-        },
-        {
           "category": "mismatched status",
-          "detail": "File {ENCFF256ALD|/files/ENCFF256ALD/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
+          "detail": "File {ENCFF926XLV|/files/ENCFF926XLV/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
           "level": 30,
           "level_name": "INTERNAL_ACTION",
           "name": "audit_item_relations_status",
-          "path": "/files/ENCFF256ALD/"
-        },
-        {
-          "category": "mismatched status",
-          "detail": "File {ENCFF335ECM|/files/ENCFF335ECM/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_relations_status",
-          "path": "/files/ENCFF335ECM/"
+          "path": "/files/ENCFF926XLV/"
         },
         {
           "category": "mismatched status",
@@ -44153,14 +44427,6 @@
         },
         {
           "category": "mismatched status",
-          "detail": "Released analysis {ENCAN887YSP|/analyses/ENCAN887YSP/} has in progress subobject document {305cb9c2-215c-45e8-8435-b7f6fe0b1279|/documents/305cb9c2-215c-45e8-8435-b7f6fe0b1279/}",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_status",
-          "path": "/analyses/ENCAN887YSP/"
-        },
-        {
-          "category": "mismatched status",
           "detail": "File {ENCFF128EVP|/files/ENCFF128EVP/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
           "level": 30,
           "level_name": "INTERNAL_ACTION",
@@ -44169,11 +44435,35 @@
         },
         {
           "category": "mismatched status",
-          "detail": "File {ENCFF926XLV|/files/ENCFF926XLV/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
+          "detail": "File {ENCFF256ALD|/files/ENCFF256ALD/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
           "level": 30,
           "level_name": "INTERNAL_ACTION",
           "name": "audit_item_relations_status",
-          "path": "/files/ENCFF926XLV/"
+          "path": "/files/ENCFF256ALD/"
+        },
+        {
+          "category": "experiment not submitted to GEO",
+          "detail": "Experiment {ENCSR684KYI|/experiments/ENCSR684KYI/} is released, but is not submitted to GEO.",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_experiment",
+          "path": "/experiments/ENCSR684KYI/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "Released analysis {ENCAN887YSP|/analyses/ENCAN887YSP/} has in progress subobject document {305cb9c2-215c-45e8-8435-b7f6fe0b1279|/documents/305cb9c2-215c-45e8-8435-b7f6fe0b1279/}",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_status",
+          "path": "/analyses/ENCAN887YSP/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "File {ENCFF335ECM|/files/ENCFF335ECM/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_relations_status",
+          "path": "/files/ENCFF335ECM/"
         }
       ],
       "WARNING": [
@@ -44283,8 +44573,8 @@
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
     "category_slims": [],
     "contributing_files": [
-      "/files/3M-february-2018/",
-      "/files/ENCFF335CCT/"
+      "/files/ENCFF335CCT/",
+      "/files/3M-february-2018/"
     ],
     "date_created": "2020-12-10T21:07:26.328859+00:00",
     "date_released": "2022-03-25",
@@ -44454,8 +44744,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2020-12-10T21:07:26.328859+00:00",
             "date_released": "2022-03-25",
@@ -44728,8 +45018,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2020-12-10T21:07:26.328859+00:00",
             "date_released": "2022-03-25",
@@ -45014,8 +45304,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2020-12-10T21:07:26.328859+00:00",
             "date_released": "2022-03-25",
@@ -45288,8 +45578,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (61 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2020-12-10T21:07:26.328859+00:00",
             "date_released": "2022-03-25",
@@ -47486,11 +47776,43 @@
       "INTERNAL_ACTION": [
         {
           "category": "mismatched status",
+          "detail": "Released analysis {ENCAN008HKB|/analyses/ENCAN008HKB/} has in progress subobject document {f2e0722c-f0ec-4f02-a443-bc4b25036f90|/documents/f2e0722c-f0ec-4f02-a443-bc4b25036f90/}",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_status",
+          "path": "/analyses/ENCAN008HKB/"
+        },
+        {
+          "category": "experiment not submitted to GEO",
+          "detail": "Experiment {ENCSR445LCA|/experiments/ENCSR445LCA/} is released, but is not submitted to GEO.",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_experiment",
+          "path": "/experiments/ENCSR445LCA/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "File {ENCFF282MIQ|/files/ENCFF282MIQ/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_relations_status",
+          "path": "/files/ENCFF282MIQ/"
+        },
+        {
+          "category": "mismatched status",
           "detail": "File {ENCFF661OIL|/files/ENCFF661OIL/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
           "level": 30,
           "level_name": "INTERNAL_ACTION",
           "name": "audit_item_relations_status",
           "path": "/files/ENCFF661OIL/"
+        },
+        {
+          "category": "mismatched status",
+          "detail": "File {ENCFF436OOY|/files/ENCFF436OOY/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
+          "level": 30,
+          "level_name": "INTERNAL_ACTION",
+          "name": "audit_item_relations_status",
+          "path": "/files/ENCFF436OOY/"
         },
         {
           "category": "mismatched status",
@@ -47507,38 +47829,6 @@
           "level_name": "INTERNAL_ACTION",
           "name": "audit_item_relations_status",
           "path": "/files/ENCFF941LQE/"
-        },
-        {
-          "category": "mismatched status",
-          "detail": "File {ENCFF436OOY|/files/ENCFF436OOY/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_relations_status",
-          "path": "/files/ENCFF436OOY/"
-        },
-        {
-          "category": "mismatched status",
-          "detail": "File {ENCFF282MIQ|/files/ENCFF282MIQ/} with status 'released' is derived from file {3M-february-2018|/files/3M-february-2018/} with status 'in progress'.",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_relations_status",
-          "path": "/files/ENCFF282MIQ/"
-        },
-        {
-          "category": "experiment not submitted to GEO",
-          "detail": "Experiment {ENCSR445LCA|/experiments/ENCSR445LCA/} is released, but is not submitted to GEO.",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_experiment",
-          "path": "/experiments/ENCSR445LCA/"
-        },
-        {
-          "category": "mismatched status",
-          "detail": "Released analysis {ENCAN008HKB|/analyses/ENCAN008HKB/} has in progress subobject document {f2e0722c-f0ec-4f02-a443-bc4b25036f90|/documents/f2e0722c-f0ec-4f02-a443-bc4b25036f90/}",
-          "level": 30,
-          "level_name": "INTERNAL_ACTION",
-          "name": "audit_item_status",
-          "path": "/analyses/ENCAN008HKB/"
         }
       ],
       "WARNING": [
@@ -47648,8 +47938,8 @@
     "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
     "category_slims": [],
     "contributing_files": [
-      "/files/3M-february-2018/",
-      "/files/ENCFF335CCT/"
+      "/files/ENCFF335CCT/",
+      "/files/3M-february-2018/"
     ],
     "date_created": "2021-09-17T18:22:56.470996+00:00",
     "date_released": "2022-03-25",
@@ -47812,8 +48102,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2021-09-17T18:22:56.470996+00:00",
             "date_released": "2022-03-25",
@@ -48103,8 +48393,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2021-09-17T18:22:56.470996+00:00",
             "date_released": "2022-03-25",
@@ -48382,8 +48672,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2021-09-17T18:22:56.470996+00:00",
             "date_released": "2022-03-25",
@@ -48673,8 +48963,8 @@
             "biosample_summary": "Homo sapiens pancreas tissue nuclear fraction female adult (41 years)",
             "category_slims": [],
             "contributing_files": [
-              "/files/3M-february-2018/",
-              "/files/ENCFF335CCT/"
+              "/files/ENCFF335CCT/",
+              "/files/3M-february-2018/"
             ],
             "date_created": "2021-09-17T18:22:56.470996+00:00",
             "date_released": "2022-03-25",

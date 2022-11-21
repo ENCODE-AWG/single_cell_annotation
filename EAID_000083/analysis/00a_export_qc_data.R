@@ -25,7 +25,7 @@ ribo_genes <- gencode %>% filter(gene_type == "rRNA") %>% pull(gene_id)
 # rna_frac_ribo: Fraction of ribosomal RNA reads
 # rna_umi_count: scRNA UMI’s per cell
 rna_qc <- mclapply(panc_all, mc.cores=6, function(s) {
-  mat <- readRDS(sprintf("../../04_data/seurat/%s/rna_raw.rds", s))
+  mat <- readRDS(sprintf("data/seurat/%s/rna_raw.rds", s))
   tibble(
     sample_name = s,
     rna_barcode = colnames(mat),
@@ -56,11 +56,22 @@ atac_qc <- mclapply(panc_all, mc.cores=6, function(s) {
   )
 }) %>% bind_rows()
 
+
+reverse_complement <- function(x) {
+  stringi::stri_reverse(x) %>%
+    toupper() %>%
+    gsub("A", "t", .) %>%
+    gsub("T", "a", .) %>%
+    gsub("G", "c", .) %>%
+    gsub("C", "g", .) %>%
+    toupper()
+}
+
 # atac_barcode: snATAC-Seq barcode
 atac_qc <- atac_qc %>%
   mutate(rna = str_remove(cell_id, "^[^#]+#")) %>%
   left_join(read_tsv("config/10x_barcode_translation.txt.gz", col_types="cc"), by="rna") %>%
-  mutate(atac_barcode = if_else(is.na(atac), rna, atac)) %>%
+  mutate(atac_barcode = if_else(is.na(atac), rna, reverse_complement(atac))) %>%
   select(!c(rna, atac))
 # atac_dataset: ENCODE snATAC-Seq dataset ID
 atac_qc <- atac_qc %>%
